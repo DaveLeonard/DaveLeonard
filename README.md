@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+### What I am working on
+I’m currently Head of IT's Projects & Developments Center for Holdigaz SA.
+
+### How to reach me
+Send me an email at hello+github@mailixa.io or get in touch with me via Twitter: [@david_senate](https://twitter.com/david_senate)
 
 <!--
 **DaveLeonard/DaveLeonard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📫 How to reach me: hello(at)mailixa.io
