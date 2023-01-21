@@ -5,7 +5,7 @@ I’m currently Deputy Head of IT | Cybersecurity, DevOps, GIS, Infrastructure &
 Most of my work is hosted on a private Gitlab server and doesn't show here.
 
 ### How to reach me
-Send me an email at hello+github@mailixa.io or get in touch with me via Twitter: [@david_senate](https://twitter.com/david_senate)
+Send me an email at hello+github@mailixa.io or get in touch with me via Twitter: [@david_senate](https://twitter.com/david_senate) or Mastodon: [david_senate@infosec.exchange](https://infosec.exchange/@david_senate)
 
 <!--
 **DaveLeonard/DaveLeonard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
