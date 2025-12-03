@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### What I am working on
-I'm currently the Deputy Head of IT | Cybersecurity, DevOps, GIS, Infrastructure & Operations @[Holdigaz](https://www.holdigaz.ch).
+I'm currently the Deputy Head of IT | Cybersecurity, DevOps, GIS, Infrastructure & Operations @[Holdinova](https://www.holdinova.ch).
 Most of my work is hosted on a private Gitlab server and doesn't show here.
 
 I'm an occasional game developer. Currently, I'm creating Airborne! Redux for Playdate.🌱
