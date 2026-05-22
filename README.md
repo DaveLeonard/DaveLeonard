@@ -20,7 +20,7 @@ Currently:
 - AI-enabled systems
 
 Public experiments & independant projects:
-- rebuilding in Lua Airborne! for Playdate , inspired by the classic Mac title ->
+- rebuilding in Lua Airborne! for Playdate , inspired by the classic Mac title -> https://david-senate.itch.io/
 
 ---
 Switzerland
