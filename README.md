@@ -1,25 +1,24 @@
-# Hi there 👋
+# David Léonard
 
-### What I am working on
-I'm currently the Deputy Head of IT | Cybersecurity, DevOps, GIS, Infrastructure & Operations @[Holdinova](https://www.holdinova.ch).
-Most of my work is hosted on a private Gitlab server and doesn't show here.
+Building resilient infrastructure, operational systems and technology platforms for the real world.
 
-I'm an occasional game developer. Currently, I'm creating Airborne! Redux for Playdate.🌱
+Focused on:
+- enterprise infrastructure
+- operational technology
+- cybersecurity
+- systems architecture
+- IT/OT convergence
+- transformation & delivery
 
-### How to reach me
-Send me an email at [hello.david.junction994@passmail.net](mailto://hello.david.junction994@passmail.net) or get in touch with me via Twitter: [@david_senate](https://twitter.com/david_senate) or Mastodon: [david_senate@infosec.exchange](https://infosec.exchange/@david_senate)
+Most of my work happens within private critical infrastructure environments.
 
-<!--
-**DaveLeonard/DaveLeonard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Occasionally building independent software and experimental projects.
 
-Here are some ideas to get you started:
+Currently:
+- internal platforms & infrastructure initiatives
+- operational resilience projects
+- AI-enabled systems
+- Airborne! Redux for Playdate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+Switzerland
