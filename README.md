@@ -18,7 +18,7 @@ Currently:
 - internal platforms & infrastructure initiatives
 - operational resilience projects
 - AI-enabled systems
-- Airborne! Redux for Playdate
+- rebuilding in Lua Airborne! for Playdate , inspired by the classic Mac title
 
 ---
 Switzerland
